@@ -5,7 +5,7 @@ Practical Programming for Total Beginners
 
 These are my notes from working through the book Automate the boring Stuff by Al Sweigart and published in 2015.
 
-Synopsis taken from the book.
+Synopsis taken from the book:
 Everyone should learn to code, but not everyone needs to become a software engineer or computer scientist. Automate the Boring Stuff with Python is written for office workers, students, administrators, and anyone who uses a computer to learn how to code small, practical programs to automate tasks on their computer.
 
 - Have a folder with thousands of files that need to be renamed?
